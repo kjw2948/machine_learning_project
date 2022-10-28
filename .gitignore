@@ -10,6 +10,7 @@
 !.vscode/*.code-snippets
 
 assignment_06_data.npz
+assignment_07_data.npz
 
 # Local History for Visual Studio Code
 .history/
